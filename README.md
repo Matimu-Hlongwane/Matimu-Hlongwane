@@ -1,4 +1,24 @@
-## Hi there 👋
+# Hi, I'm Matimu 👋
+
+🚀 Software Developer & Entrepreneur  
+💼 Founder of MM Hloding / SkyLaunch Digital  
+📍 South Africa  
+
+## 🔧 Tech Stack
+• Python
+• JavaScript
+• HTML & CSS
+• APIs & Automation
+
+## 📌 Current Focus
+1. Building real-world projects
+2. Learning cloud & AI systems
+3. Growing digital businesses
+
+## 📫 Connect With Me
+• LinkedIn: [[Your Link]](https://www.linkedin.com/in/matimu-hlongwane-376040307)
+
+⚡ I don’t just learn code, I build with it.
 
 <!--
 **Matimu-Hlongwane/Matimu-Hlongwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
