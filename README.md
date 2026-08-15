@@ -9,6 +9,8 @@
 • JavaScript
 • HTML & CSS
 • APIs & Automation
+• Angular
+• React.JS
 
 ## 📌 Current Focus
 1. Building real-world projects
