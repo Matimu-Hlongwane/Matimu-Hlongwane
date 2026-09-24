@@ -18,7 +18,7 @@
 3. Growing digital businesses
 
 ## 📫 Connect With Me
-• LinkedIn: [[Your Link]](https://www.linkedin.com/in/matimu-hlongwane-376040307)
+• LinkedIn: [n/matimu-hlongwane-376040307](https://www.linkedin.com/in/matimu-hlongwane-376040307)
 
 ⚡ I don’t just learn code, I build with it.
 
