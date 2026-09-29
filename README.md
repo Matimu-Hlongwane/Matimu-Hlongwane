@@ -1,38 +1,66 @@
-# Hi, I'm Matimu 👋
+# Hi, I'm Matimu Hlongwane
 
-🚀 Software Developer & Entrepreneur  
-💼 Founder of MM Hloding / SkyLaunch Digital  
-📍 South Africa  
+### Software Developer | Full-Stack Development | Building Real-World Solutions
 
-## 🔧 Tech Stack
-• Python
-• JavaScript
-• HTML & CSS
-• APIs & Automation
-• Angular
-• React.JS
+I'm an IT student and software developer from South Africa, passionate about building practical, accessible, and user-focused digital products.
 
-## 📌 Current Focus
-1. Building real-world projects
-2. Learning cloud & AI systems
-3. Growing digital businesses
+My journey combines formal IT education, hands-on development, and entrepreneurship. I enjoy turning ideas into functional applications, exploring new technologies, and solving problems through software.
 
-## 📫 Connect With Me
-• LinkedIn: [n/matimu-hlongwane-376040307](https://www.linkedin.com/in/matimu-hlongwane-376040307)
+- 🎓 BSc Information Technology — Richfield
+- 💻 Interested in software engineering, web development, and application design
+- 🚀 Building projects including UniAble and SizaLink
+- 🌱 Continuously developing my skills in modern web technologies, databases, APIs, and cloud computing
+- 🤝 Open to graduate developer roles, junior software developer opportunities, and collaborative projects
 
-⚡ I don’t just learn code, I build with it.
+## Technologies & Tools
 
-<!--
-**Matimu-Hlongwane/Matimu-Hlongwane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Languages**
+JavaScript · TypeScript · Python · PHP · C++ · C#
 
-Here are some ideas to get you started:
+**Web Development**
+HTML5 · CSS3 · React · Angular · AngularJS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Databases & Backend**
+MySQL · REST APIs · Authentication · Application Logic
+
+**Tools & Platforms**
+Git · GitHub · VS Code · Azure DevOps
+
+## Featured Projects
+
+### UniAble — Accessible Technology Platform
+An academic software project exploring accessible digital experiences and assistive features, including voice interaction and navigation.
+
+**Focus:** Accessibility · User Experience · Application Development
+
+[View UniAble](https://github.com/Matimu-Hlongwane)
+
+### SizaLink — Hyperlocal Task Marketplace
+A startup project designed to connect people who need local services with nearby workers in South Africa.
+
+**Focus:** Marketplace Workflows · User Trust · Verification · Application Design
+
+[Explore my repositories](https://github.com/Matimu-Hlongwane?tab=repositories)
+
+### Angular Learning & Practice
+A collection of exercises and projects documenting my progress with Angular-related web development concepts.
+
+**Focus:** Components · Data Binding · JavaScript · Front-End Development
+
+[Explore repositories](https://github.com/Matimu-Hlongwane?tab=repositories)
+
+## What I'm Working Towards
+
+- Building and documenting production-minded applications
+- Writing maintainable, readable, and testable code
+- Strengthening my full-stack development skills
+- Growing my understanding of software architecture, cloud technologies, and deployment
+
+## Let's Connect
+
+- GitHub: [Matimu-Hlongwane](https://github.com/Matimu-Hlongwane)
+- LinkedIn: (https://www.linkedin.com/in/matimu-hlongwane-376040307) 
+
+I'm always interested in learning, building, and collaborating on meaningful technology projects.
+
+*Learn continuously. Build deliberately. Solve real problems.*
